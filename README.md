@@ -8,7 +8,7 @@ Atuando na interseção entre engenharia de alta complexidade e estratégia de n
 
 * **Foco Atual:** Arquitetura de Software, Modelagem Relacional (PostgreSQL) e Desenvolvimento de Produtos SaaS.
 * **Base de Operações:** Recife, PE, Brasil.
-* **Portfólio Interativo:** [Logo mais disponível!]([https://seu-link-aqui.com](https://github.com/LucasRodriguesAC/)
+* **Portfólio Interativo:** [Logo mais disponível!]([https://github.com/LucasRodriguesAC/])
 
 ---
 
