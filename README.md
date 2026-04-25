@@ -17,8 +17,8 @@
 ## 🧭 Sobre mim
 
 ```typescript
-const mateus = {
-  role:       ["CEO & Co-founder @ Onlife", "Full Stack Developer", "Servidor Público — SEIC/PE"],
+const Lucas = {
+  role:       ["CEO & Co-founder @ Onlife", "Full Stack Developer", "SRHS — SEIC/PE"],
   location:   "Porto Digital, Recife — PE 🦁",
   mindset:    "Encontro problemas. Resolvo problemas. Procuro mais problemas.",
   
@@ -40,11 +40,11 @@ const mateus = {
 
 | 🏗️ | Conquista |
 |---|---|
-| 🚀 | **CEO & Co-founder** da [Onlife](https://github.com) — startup embarcada no Porto Digital |
+| 🚀 | **CEO & Co-founder** da [Onlife](https://onlife.app.br/) — startup embarcada no Porto Digital |
 | 🌱 | Aprovado nas **3 etapas do StartupNE** com fomento da **FACEPE** |
 | 🏛️ | **Pré-incubação** no Porto Digital — coração da inovação de Pernambuco |
 | 🏢 | Atuação na **SEIC** — Secretaria Executiva de Infraestrutura das Concessões de Saneamento do Estado de PE |
-| 💡 | Inserido no **ecossistema de inovação de Pernambuco** desde cedo _(por escolha, não por acidente)_ |
+| 💡 | Inserido no **ecossistema de inovação de Pernambuco** desde cedo|
 
 </div>
 
@@ -79,12 +79,12 @@ const mateus = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRodriguesAC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguesAC&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRodriguesAC&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -93,10 +93,10 @@ const mateus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![Onlife](https://img.shields.io/badge/Onlife-2C5364?style=for-the-badge&logo=rocket&logoColor=white)](https://onlife.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-rodrigues-ac/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasr.co/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LucasRodriguesAC1@gmail.com)
+[![Onlife](https://img.shields.io/badge/Onlife-2C5364?style=for-the-badge&logo=rocket&logoColor=white)](https://onlife.app.br/)
 
 </div>
 
@@ -116,7 +116,7 @@ const mateus = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=2c5364&style=flat-square&label=Visitantes+curiosos)
+![Profile Views](https://komarev.com/ghpvc/?username=LucasRodriguesAC&color=2c5364&style=flat-square&label=Visitantes+curiosos)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
