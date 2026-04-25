@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&random=false&width=600&lines=CEO+%26+Co-founder+%40+Onlife;Full+Stack+Developer;Problem+Solver+%E2%80%94+Sempre+em+busca+do+pr%C3%B3ximo;Embarcado+no+Porto+Digital+%F0%9F%9A%80;Feito+em+Pernambuco+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&random=false&width=600&lines=CEO+%26+Co-founder+%40+Onlife;Full+Stack+Developer;Problem+Solver+%E2%80%94+Sempre+em+busca+do+pr%C3%B3ximo;Embarcado+no+Porto+Digital+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +28,6 @@ const Lucas = {
     "🧠 Aprendendo algo novo (provavelmente às 23h)",
   ],
 
-  funFact: "Recebi fomento da FACEPE antes de ter um salário decente. Prioridades são prioridades."
 };
 ```
 
@@ -93,7 +92,7 @@ const Lucas = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-rodrigues-ac/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-ac/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasr.co/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LucasRodriguesAC1@gmail.com)
 [![Onlife](https://img.shields.io/badge/Onlife-2C5364?style=for-the-badge&logo=rocket&logoColor=white)](https://onlife.app.br/)
